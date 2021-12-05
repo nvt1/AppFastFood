@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FastFoodOnline</string>
+    <string name="ng_nh_p">Đăng Nhập</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
